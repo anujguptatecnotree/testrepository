@@ -1,0 +1,10 @@
+---
+version: 0.2
+
+phases     
+  build:
+    commands:
+      - echo "Building pyftp ami"
+      - echo "Packer build completed on `date`"
+      - echo "Tagging AMIs"  
+      - echo "Tag Complete"
