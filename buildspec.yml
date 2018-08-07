@@ -3,4 +3,6 @@ phases:
   build: 
     commands: 
       - "echo \"Testing the Build process\""
+      - "echo \"Testing the Deploy Process\""
+      - "echo \"Testing the Pipeline process\""
 version: 0.2
