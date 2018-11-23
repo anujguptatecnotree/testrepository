@@ -12,3 +12,4 @@ checking differences
 discard the changes
 testing stash
 again changing 
+adding for check branches
